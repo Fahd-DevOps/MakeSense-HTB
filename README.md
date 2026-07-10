@@ -1,0 +1,2 @@
+# MakeSense-HTB
+HackTheBox — MakeSense
