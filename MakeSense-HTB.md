@@ -3,9 +3,6 @@
 
 **Machine:** MakeSense (HTB Medium Linux)  
 **Date:** July 2026  
-**Attacker IP:** `ATTACKER_IP`  
-**Target IP:** `TARGET_IP`  
-
 ---
 
 ## Table of Contents
